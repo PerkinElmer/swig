@@ -194,7 +194,3 @@ Examples/r/*/.RData
 # Scilab
 Examples/test-suite/scilab/*/
 loader.sce
-
-# Do not ignore the bin files
-!bin/*
-
